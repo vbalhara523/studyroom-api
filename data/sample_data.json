@@ -1,0 +1,21 @@
+{
+  "rooms": [
+    {"name": "Library Room A", "capacity": 6},
+    {"name": "Library Room B", "capacity": 4},
+    {"name": "CS Lab Discussion Room", "capacity": 8},
+    {"name": "Seminar Hall Corner", "capacity": 12},
+    {"name": "Quiet Study Pod 1", "capacity": 1},
+    {"name": "Quiet Study Pod 2", "capacity": 1}
+  ],
+  "bookings": [
+    {"room": "Library Room A", "booked_by": "Aarav Sharma", "date": "2026-11-02", "start_time": "09:00", "end_time": "11:00"},
+    {"room": "Library Room A", "booked_by": "Meera Yadav", "date": "2026-11-02", "start_time": "11:00", "end_time": "12:30"},
+    {"room": "Library Room A", "booked_by": "Isha Verma", "date": "2026-11-02", "start_time": "14:00", "end_time": "16:00"},
+    {"room": "Library Room B", "booked_by": "Rohan Dahiya", "date": "2026-11-02", "start_time": "10:00", "end_time": "12:00"},
+    {"room": "CS Lab Discussion Room", "booked_by": "Neha Joshi", "date": "2026-11-02", "start_time": "13:00", "end_time": "15:00"},
+    {"room": "CS Lab Discussion Room", "booked_by": "Dev Rathi", "date": "2026-11-03", "start_time": "09:00", "end_time": "10:30"},
+    {"room": "Quiet Study Pod 1", "booked_by": "Karan Malik", "date": "2026-11-03", "start_time": "08:00", "end_time": "11:00"},
+    {"room": "Quiet Study Pod 1", "booked_by": "Sana Khan", "date": "2026-11-03", "start_time": "15:00", "end_time": "17:00"},
+    {"room": "Seminar Hall Corner", "booked_by": "Yash Gupta", "date": "2026-11-04", "start_time": "16:00", "end_time": "18:00"}
+  ]
+}
